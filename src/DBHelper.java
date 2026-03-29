@@ -7,7 +7,7 @@ public class DBHelper {
 
     private static final String databaseName = "jdbc:postgresql://localhost:5432/VTYSProject";
     private static final String userName = "postgres";
-    private static final String userPassword = "2034";
+    private static final String userPassword = "your_password";
 
     public static Connection getConnection() {
 
