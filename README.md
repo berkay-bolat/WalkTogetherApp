@@ -55,4 +55,11 @@ This project was developed with a strong emphasis on Database Management System 
 
 ### 4. Default Login Credentials
 * Admin: Berkay | 1234
+* Admin: Oytun | 1234
 * User: Hasan | 1234
+
+## 👥 Contributors
+This project was collaboratively developed by:
+* **Berkay Bolat** - github.com/berkay-bolat
+* **Oytun Utkan Yeşilyurt** - github.com/oytunutkan
+* **Emirhan Coşkun** - github.com/emirhanc0skun
